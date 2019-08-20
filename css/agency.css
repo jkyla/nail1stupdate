@@ -22,7 +22,11 @@ a:hover {
 }
 
 .text-primary {
-  color: white !important;
+  color: white!important;
+}
+
+.text-secondary {
+  color: #e6d6cd;
 }
 
 
@@ -227,7 +231,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 
-.fa-circle {
+.col-md-4 .fa-circle .fa-stack{
   color: #e6d6cd;
 }
 
