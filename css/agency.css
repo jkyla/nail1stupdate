@@ -113,6 +113,16 @@ img::-moz-selection {
   box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
 }
 
+@media (max-width: 767px) {
+.navbar-toggler {
+  outline: 0! important;
+  border: 0! important;
+  }
+}
+
+
+
+
 #mainNav {
   background-color: #e6d6cd;
 }
